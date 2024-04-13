@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Extensify BE",
+  "author": "Sunny Kumar",
+  "version": "1.0",
+  "description": "a browser extension that let you manage your daily task",
+  "chrome_url-overrides": {
+    "newtab": "index.html"
+  }
+}
